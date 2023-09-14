@@ -1,0 +1,4 @@
+Chandu: 80
+Krishna: 82
+Sai kumar: 90
+Swamy: 87
